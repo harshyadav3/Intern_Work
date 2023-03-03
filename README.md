@@ -33,12 +33,12 @@ Time Series (TS) analysis can be used to predict short-term stock market.
 
 
 
-How to run the Amazon.ipynb file?
-# You can run the Amazon.ipynb in jupiter notebook or you can run the file using google colab notebook.You just need to click on each cell to run the cell. make  sure you run the pip install commands present in the code before you run the other cells.  
+# How to run the Amazon.ipynb file?
+You can run the Amazon.ipynb in jupiter notebook or you can run the file using google colab notebook.You just need to click on each cell to run the cell. make  sure you run the pip install commands present in the code before you run the other cells.  
 
 
-what the Amazon.ipynb do or return as ouput ?
-# Basically It will predict the ouptut (closing price of amazon stock) for the next 57 days.
+# what the Amazon.ipynb do or return as ouput ?
+Basically It will predict the ouptut (closing price of amazon stock) for the next 57 days.
 
 
 
